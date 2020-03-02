@@ -2,3 +2,4 @@ theme: jekyll-theme-slate
 title: Welcome to my homepage!
 description: Feel free to bookmark this and return later to see the projects on which I'm currently working.
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
