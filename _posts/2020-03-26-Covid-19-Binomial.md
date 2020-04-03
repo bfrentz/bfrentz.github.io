@@ -115,7 +115,7 @@ ax.set_title('Probability of knowing a COVID-19 victim', fontsize = 30);
 ```
 
 
-![png](./2020-03-26-Figs/output_12_0.png)
+![firstFigure.png](attachment::./2020-03-26-Figs/output_12_0.png)
 
 
 ---
@@ -157,7 +157,7 @@ ax.legend(loc='best', fontsize=20);
 ```
 
 
-![png](./2020-03-26-Figs/output_15_0.png)
+![png](attachment::./2020-03-26-Figs/output_15_0.png)
 
 
 
@@ -181,7 +181,7 @@ ax.legend(loc='best', fontsize=20);
 ```
 
 
-![png](./2020-03-26-Figs/output_16_0.png)
+![png](attachment::./2020-03-26-Figs/output_16_0.png)
 
 
 Looking at these figures, there is a pretty large dispersion among cases with the different fatality ranges while there is not as much of an effect arising from the different infection rates. From this, we can infer some things:
